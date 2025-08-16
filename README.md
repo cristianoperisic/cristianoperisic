@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=y3jun2da13&theme=onestar)
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cristianoperisic&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/cristianoperisic"
+  width="700"
+  height="450"
+/>
+</a>
